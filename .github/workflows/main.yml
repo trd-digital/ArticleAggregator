@@ -1,0 +1,42 @@
+name: Real Estate News Aggregator
+
+# Run at the 0th minute of every hour between 13 and 22 UTC.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13-22 * * *'
+
+permissions:
+  contents: write  # Grants write access to the repository contents.
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Boston Globe Scraper
+        run: python boston_globe.py
+
+      - name: Run Classifier
+        run: python classify.py
+
+      - name: Commit updated data
+        run: |
+          # Make sure the file name below matches the output file from your scripts.
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add articles.json
+          git diff --cached --quiet || git commit -m "Update RSS feed data"
+          git push

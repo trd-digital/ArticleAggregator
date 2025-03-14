@@ -1,0 +1,139 @@
+2025-03-14 14:42:49,267 INFO: Starting classification process.
+2025-03-14 14:42:49,268 INFO: Loaded 16 articles from articles.json.
+2025-03-14 14:42:49,268 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-14 14:43:24,795 INFO: Starting classification process.
+2025-03-14 14:43:24,795 INFO: Loaded 16 articles from articles.json.
+2025-03-14 14:43:24,795 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-14 14:43:26,985 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:43:38,013 INFO: Assigned classifications: {'Investment': 0.946235179901123, 'Finance': 0.9362003207206726, 'Technology': 0.9171027541160583, 'Legal': 0.9073050618171692, 'Residential': 0.879649817943573, 'Market Trends': 0.8597795963287354, 'Commercial': 0.8182318210601807}
+2025-03-14 14:43:38,013 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:43:40,616 INFO: Assigned classifications: {'Investment': 0.956326961517334, 'Residential': 0.9516160488128662, 'Legal': 0.9476656913757324, 'Finance': 0.945584774017334, 'Market Trends': 0.861187219619751, 'Commercial': 0.8584157228469849, 'Technology': 0.8420778512954712}
+2025-03-14 14:43:40,616 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:43:42,535 INFO: Assigned classifications: {'Investment': 0.6727372407913208, 'Residential': 0.6443426012992859, 'Finance': 0.37793710827827454, 'Technology': 0.3230770528316498, 'Commercial': 0.20908617973327637, 'Legal': 0.14242196083068848, 'Market Trends': 0.06414279341697693}
+2025-03-14 14:43:42,535 INFO: Classifying article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:43:44,884 INFO: Assigned classifications: {'Finance': 0.7996171116828918, 'Residential': 0.7980597615242004, 'Market Trends': 0.770596444606781, 'Investment': 0.7612610459327698, 'Legal': 0.7088509798049927, 'Technology': 0.5013473033905029, 'Commercial': 0.26924869418144226}
+2025-03-14 14:43:44,884 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:43:46,785 INFO: Assigned classifications: {'Finance': 0.7242631912231445, 'Market Trends': 0.6173892021179199, 'Residential': 0.5871550440788269, 'Legal': 0.5113472938537598, 'Technology': 0.4301435351371765, 'Investment': 0.39856910705566406, 'Commercial': 0.21366581320762634}
+2025-03-14 14:43:46,785 INFO: Classifying article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:43:48,798 INFO: Assigned classifications: {'Investment': 0.4657112956047058, 'Residential': 0.4377070665359497, 'Finance': 0.4340050518512726, 'Legal': 0.24938003718852997, 'Technology': 0.22700613737106323, 'Market Trends': 0.18430127203464508, 'Commercial': 0.08411599695682526}
+2025-03-14 14:43:48,798 INFO: Classifying article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:43:51,172 INFO: Assigned classifications: {'Residential': 0.8935583829879761, 'Investment': 0.8530166745185852, 'Market Trends': 0.8334529995918274, 'Finance': 0.8332634568214417, 'Legal': 0.8238217234611511, 'Commercial': 0.7313226461410522, 'Technology': 0.4500032365322113}
+2025-03-14 14:43:51,173 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:43:53,523 INFO: Assigned classifications: {'Investment': 0.9363169074058533, 'Market Trends': 0.9333120584487915, 'Residential': 0.9277815818786621, 'Finance': 0.9268461465835571, 'Legal': 0.9196165800094604, 'Commercial': 0.7789033651351929, 'Technology': 0.7615123391151428}
+2025-03-14 14:43:53,523 INFO: Classifying article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:43:55,889 INFO: Assigned classifications: {'Finance': 0.9190670847892761, 'Investment': 0.9119874835014343, 'Legal': 0.8881014585494995, 'Residential': 0.8873389959335327, 'Technology': 0.7583935260772705, 'Commercial': 0.629549503326416, 'Market Trends': 0.603705883026123}
+2025-03-14 14:43:55,890 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:43:57,173 INFO: Assigned classifications: {'Commercial': 0.7060147523880005, 'Market Trends': 0.6709877848625183, 'Residential': 0.6663854122161865, 'Finance': 0.6662933826446533, 'Technology': 0.6533232927322388, 'Investment': 0.6458457708358765, 'Legal': 0.6260886192321777}
+2025-03-14 14:43:57,173 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:43:58,906 INFO: Assigned classifications: {'Residential': 0.7609113454818726, 'Legal': 0.5033666491508484, 'Investment': 0.464193195104599, 'Technology': 0.34925174713134766, 'Market Trends': 0.33920758962631226, 'Finance': 0.3343955874443054, 'Commercial': 0.21191024780273438}
+2025-03-14 14:43:58,906 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:44:01,117 INFO: Assigned classifications: {'Investment': 0.978013277053833, 'Market Trends': 0.7443405985832214, 'Finance': 0.742380678653717, 'Legal': 0.6432426571846008, 'Commercial': 0.6289664506912231, 'Residential': 0.6004440188407898, 'Technology': 0.5100821256637573}
+2025-03-14 14:44:01,118 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:44:03,483 INFO: Assigned classifications: {'Market Trends': 0.8760348558425903, 'Residential': 0.8063960671424866, 'Legal': 0.7155704498291016, 'Finance': 0.6959999799728394, 'Investment': 0.6574997901916504, 'Commercial': 0.5587148070335388, 'Technology': 0.46197178959846497}
+2025-03-14 14:44:03,484 INFO: Classifying article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:44:05,571 INFO: Assigned classifications: {'Technology': 0.9244965314865112, 'Residential': 0.8042526841163635, 'Investment': 0.7852944135665894, 'Legal': 0.6723366975784302, 'Market Trends': 0.6010388135910034, 'Commercial': 0.5248132944107056, 'Finance': 0.44174784421920776}
+2025-03-14 14:44:05,571 INFO: Classifying article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:44:07,955 INFO: Assigned classifications: {'Residential': 0.6206478476524353, 'Market Trends': 0.5566438436508179, 'Commercial': 0.4825442135334015, 'Investment': 0.45649316906929016, 'Finance': 0.44491827487945557, 'Legal': 0.34038206934928894, 'Technology': 0.2670685052871704}
+2025-03-14 14:44:07,955 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:44:10,322 INFO: Assigned classifications: {'Investment': 0.5262168049812317, 'Residential': 0.5017406344413757, 'Legal': 0.38901829719543457, 'Finance': 0.3616722822189331, 'Market Trends': 0.2894531190395355, 'Technology': 0.21384915709495544, 'Commercial': 0.20906072854995728}
+2025-03-14 14:44:10,323 INFO: Classified 16 new articles.
+2025-03-14 14:44:10,325 INFO: Saved updated articles to articles.json.
+2025-03-14 14:44:10,325 INFO: Classification process completed.
+2025-03-14 14:49:43,918 INFO: Starting classification process.
+2025-03-14 14:49:43,919 INFO: Loaded 16 articles from articles.json.
+2025-03-14 14:49:43,919 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-14 14:49:46,121 INFO: Classifying article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:49:49,429 INFO: Assigned classifications: {'Residential Real Estate': 0.8652111291885376, 'Real Estate Market Trends': 0.7922114133834839, 'Real Estate Investment': 0.7796926498413086, 'Real Estate Legal': 0.7412787675857544, 'Commercial Real Estate': 0.7129697203636169, 'Real Estate Finance': 0.7115518450737, 'Real Estate Technology': 0.5156193971633911}
+2025-03-14 14:49:49,429 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:49:52,108 INFO: Assigned classifications: {'Real Estate Investment': 0.934687077999115, 'Real Estate Finance': 0.9339209198951721, 'Real Estate Technology': 0.9303216934204102, 'Real Estate Legal': 0.9214636087417603, 'Residential Real Estate': 0.8808124661445618, 'Real Estate Market Trends': 0.8738240003585815, 'Commercial Real Estate': 0.814800500869751}
+2025-03-14 14:49:52,108 INFO: Classifying article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:49:54,060 INFO: Assigned classifications: {'Residential Real Estate': 0.8096430897712708, 'Real Estate Market Trends': 0.7141789793968201, 'Commercial Real Estate': 0.688387930393219, 'Real Estate Technology': 0.6715966463088989, 'Real Estate Investment': 0.5583686828613281, 'Real Estate Legal': 0.46124616265296936, 'Real Estate Finance': 0.4300152063369751}
+2025-03-14 14:49:54,060 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:49:56,372 INFO: Assigned classifications: {'Real Estate Investment': 0.9610015153884888, 'Residential Real Estate': 0.9544281959533691, 'Real Estate Legal': 0.9502890110015869, 'Real Estate Finance': 0.9468461871147156, 'Real Estate Market Trends': 0.8941465020179749, 'Real Estate Technology': 0.8819913268089294, 'Commercial Real Estate': 0.8423447012901306}
+2025-03-14 14:49:56,373 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:49:58,066 INFO: Assigned classifications: {'Residential Real Estate': 0.6754511594772339, 'Commercial Real Estate': 0.4387836456298828, 'Real Estate Legal': 0.2985571622848511, 'Real Estate Market Trends': 0.2676246166229248, 'Real Estate Investment': 0.2383985072374344, 'Real Estate Technology': 0.16341179609298706, 'Real Estate Finance': 0.12828698754310608}
+2025-03-14 14:49:58,067 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:49:59,563 INFO: Assigned classifications: {'Residential Real Estate': 0.6927686333656311, 'Real Estate Legal': 0.5033596754074097, 'Real Estate Investment': 0.4794808328151703, 'Commercial Real Estate': 0.33031848073005676, 'Real Estate Market Trends': 0.3027951717376709, 'Real Estate Technology': 0.1974191665649414, 'Real Estate Finance': 0.17409490048885345}
+2025-03-14 14:49:59,563 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:50:01,873 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9022800922393799, 'Real Estate Investment': 0.8695345520973206, 'Real Estate Legal': 0.8663292527198792, 'Real Estate Finance': 0.8649378418922424, 'Residential Real Estate': 0.8573756814002991, 'Commercial Real Estate': 0.768989086151123, 'Real Estate Technology': 0.7155845761299133}
+2025-03-14 14:50:01,874 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:50:03,161 INFO: Assigned classifications: {'Residential Real Estate': 0.7146681547164917, 'Real Estate Legal': 0.7014733552932739, 'Real Estate Investment': 0.673194169998169, 'Commercial Real Estate': 0.6654168963432312, 'Real Estate Technology': 0.6633228659629822, 'Real Estate Market Trends': 0.6046485900878906, 'Real Estate Finance': 0.590332567691803}
+2025-03-14 14:50:03,161 INFO: Classifying article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:50:05,479 INFO: Assigned classifications: {'Real Estate Finance': 0.925166130065918, 'Real Estate Investment': 0.9237673878669739, 'Real Estate Legal': 0.898941159248352, 'Residential Real Estate': 0.8726525902748108, 'Real Estate Technology': 0.8024203777313232, 'Real Estate Market Trends': 0.6726433038711548, 'Commercial Real Estate': 0.564576268196106}
+2025-03-14 14:50:05,479 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:50:07,785 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9528656005859375, 'Real Estate Investment': 0.9327605962753296, 'Real Estate Legal': 0.9303863048553467, 'Real Estate Finance': 0.9073853492736816, 'Residential Real Estate': 0.8983381986618042, 'Commercial Real Estate': 0.8246079087257385, 'Real Estate Technology': 0.7992646098136902}
+2025-03-14 14:50:07,786 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:50:10,116 INFO: Assigned classifications: {'Real Estate Investment': 0.7505901455879211, 'Residential Real Estate': 0.61376953125, 'Real Estate Finance': 0.5970485210418701, 'Real Estate Legal': 0.5913238525390625, 'Real Estate Market Trends': 0.4101226329803467, 'Real Estate Technology': 0.3987177014350891, 'Commercial Real Estate': 0.23132751882076263}
+2025-03-14 14:50:10,116 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:50:11,990 INFO: Assigned classifications: {'Residential Real Estate': 0.8953617811203003, 'Real Estate Market Trends': 0.678309977054596, 'Real Estate Investment': 0.6671785712242126, 'Real Estate Legal': 0.5571603178977966, 'Real Estate Finance': 0.3923489451408386, 'Real Estate Technology': 0.3912678360939026, 'Commercial Real Estate': 0.2533690631389618}
+2025-03-14 14:50:11,990 INFO: Classifying article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:50:13,773 INFO: Assigned classifications: {'Residential Real Estate': 0.4817359745502472, 'Real Estate Investment': 0.30907073616981506, 'Commercial Real Estate': 0.1871749609708786, 'Real Estate Market Trends': 0.1859298050403595, 'Real Estate Technology': 0.18022096157073975, 'Real Estate Finance': 0.16105984151363373, 'Real Estate Legal': 0.1322067677974701}
+2025-03-14 14:50:13,773 INFO: Classifying article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:50:16,095 INFO: Assigned classifications: {'Residential Real Estate': 0.8341859579086304, 'Real Estate Investment': 0.832496702671051, 'Real Estate Finance': 0.826924741268158, 'Real Estate Market Trends': 0.7984685897827148, 'Real Estate Legal': 0.779863715171814, 'Real Estate Technology': 0.5968027710914612, 'Commercial Real Estate': 0.34179019927978516}
+2025-03-14 14:50:16,096 INFO: Classifying article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:50:18,437 INFO: Assigned classifications: {'Real Estate Market Trends': 0.7424681782722473, 'Real Estate Investment': 0.7143848538398743, 'Residential Real Estate': 0.6771637201309204, 'Real Estate Finance': 0.6669892072677612, 'Commercial Real Estate': 0.6440562605857849, 'Real Estate Legal': 0.6047871708869934, 'Real Estate Technology': 0.5216553807258606}
+2025-03-14 14:50:18,438 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:50:20,691 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9466114640235901, 'Real Estate Investment': 0.9290624856948853, 'Commercial Real Estate': 0.8684377670288086, 'Residential Real Estate': 0.8201419115066528, 'Real Estate Finance': 0.6181514859199524, 'Real Estate Technology': 0.4874180853366852, 'Real Estate Legal': 0.43727031350135803}
+2025-03-14 14:50:20,692 INFO: Classified 16 new articles.
+2025-03-14 14:50:20,693 INFO: Saved updated articles to articles.json.
+2025-03-14 14:50:20,694 INFO: Classification process completed.
+2025-03-14 14:53:38,292 INFO: Starting classification process.
+2025-03-14 14:53:38,293 INFO: Loaded 16 articles from articles.json.
+2025-03-14 14:53:38,293 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-14 14:53:40,565 INFO: Article already classified: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:53:40,565 INFO: Article already classified: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:53:40,565 INFO: Article already classified: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:53:40,566 INFO: Article already classified: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:53:40,566 INFO: Classified 0 new articles.
+2025-03-14 14:53:40,567 INFO: Saved updated articles to articles.json.
+2025-03-14 14:53:40,567 INFO: Classification process completed.
+2025-03-14 15:02:23,454 INFO: Starting classification process.
+2025-03-14 15:02:23,454 INFO: Loaded 16 articles from articles.json.
+2025-03-14 15:02:23,454 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-14 15:02:25,735 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 15:02:29,468 INFO: Assigned classifications: {'Real Estate Investment': 0.9610015153884888, 'Residential Real Estate': 0.9544281959533691, 'Real Estate Legal': 0.9502890110015869, 'Real Estate Finance': 0.9468461871147156, 'Real Estate Market Trends': 0.8941465020179749, 'Real Estate Technology': 0.8819913268089294, 'Commercial Real Estate': 0.8423447012901306}
+2025-03-14 15:02:29,469 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 15:02:32,133 INFO: Assigned classifications: {'Real Estate Investment': 0.934687077999115, 'Real Estate Finance': 0.9339209198951721, 'Real Estate Technology': 0.9303216934204102, 'Real Estate Legal': 0.9214636087417603, 'Residential Real Estate': 0.8808124661445618, 'Real Estate Market Trends': 0.8738240003585815, 'Commercial Real Estate': 0.814800500869751}
+2025-03-14 15:02:32,133 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 15:02:33,996 INFO: Assigned classifications: {'Residential Real Estate': 0.8953617811203003, 'Real Estate Market Trends': 0.678309977054596, 'Real Estate Investment': 0.6671785712242126, 'Real Estate Legal': 0.5571603178977966, 'Real Estate Finance': 0.3923489451408386, 'Real Estate Technology': 0.3912678360939026, 'Commercial Real Estate': 0.2533690631389618}
+2025-03-14 15:02:33,997 INFO: Classifying article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 15:02:35,302 INFO: Assigned classifications: {'Residential Real Estate': 0.7146681547164917, 'Real Estate Legal': 0.7014733552932739, 'Real Estate Investment': 0.673194169998169, 'Commercial Real Estate': 0.6654168963432312, 'Real Estate Technology': 0.6633228659629822, 'Real Estate Market Trends': 0.6046485900878906, 'Real Estate Finance': 0.590332567691803}
+2025-03-14 15:02:35,303 INFO: Classifying article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 15:02:37,647 INFO: Assigned classifications: {'Real Estate Investment': 0.7505901455879211, 'Residential Real Estate': 0.61376953125, 'Real Estate Finance': 0.5970485210418701, 'Real Estate Legal': 0.5913238525390625, 'Real Estate Market Trends': 0.4101226329803467, 'Real Estate Technology': 0.3987177014350891, 'Commercial Real Estate': 0.23132751882076263}
+2025-03-14 15:02:37,647 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 15:02:39,465 INFO: Assigned classifications: {'Residential Real Estate': 0.6927686333656311, 'Real Estate Legal': 0.5033596754074097, 'Real Estate Investment': 0.4794808328151703, 'Commercial Real Estate': 0.33031848073005676, 'Real Estate Market Trends': 0.3027951717376709, 'Real Estate Technology': 0.1974191665649414, 'Real Estate Finance': 0.17409490048885345}
+2025-03-14 15:02:39,465 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 15:02:41,782 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9022800922393799, 'Real Estate Investment': 0.8695345520973206, 'Real Estate Legal': 0.8663292527198792, 'Real Estate Finance': 0.8649378418922424, 'Residential Real Estate': 0.8573756814002991, 'Commercial Real Estate': 0.768989086151123, 'Real Estate Technology': 0.7155845761299133}
+2025-03-14 15:02:41,783 INFO: Classifying article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 15:02:44,117 INFO: Assigned classifications: {'Real Estate Finance': 0.925166130065918, 'Real Estate Investment': 0.9237673878669739, 'Real Estate Legal': 0.898941159248352, 'Residential Real Estate': 0.8726525902748108, 'Real Estate Technology': 0.8024203777313232, 'Real Estate Market Trends': 0.6726433038711548, 'Commercial Real Estate': 0.564576268196106}
+2025-03-14 15:02:44,117 INFO: Classifying article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 15:02:46,433 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9528656005859375, 'Real Estate Investment': 0.9327605962753296, 'Real Estate Legal': 0.9303863048553467, 'Real Estate Finance': 0.9073853492736816, 'Residential Real Estate': 0.8983381986618042, 'Commercial Real Estate': 0.8246079087257385, 'Real Estate Technology': 0.7992646098136902}
+2025-03-14 15:02:46,434 INFO: Classifying article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 15:02:48,782 INFO: Assigned classifications: {'Real Estate Market Trends': 0.7424681782722473, 'Real Estate Investment': 0.7143848538398743, 'Residential Real Estate': 0.6771637201309204, 'Real Estate Finance': 0.6669892072677612, 'Commercial Real Estate': 0.6440562605857849, 'Real Estate Legal': 0.6047871708869934, 'Real Estate Technology': 0.5216553807258606}
+2025-03-14 15:02:48,783 INFO: Classifying article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 15:02:51,027 INFO: Assigned classifications: {'Real Estate Market Trends': 0.9466114640235901, 'Real Estate Investment': 0.9290624856948853, 'Commercial Real Estate': 0.8684377670288086, 'Residential Real Estate': 0.8201419115066528, 'Real Estate Finance': 0.6181514859199524, 'Real Estate Technology': 0.4874180853366852, 'Real Estate Legal': 0.43727031350135803}
+2025-03-14 15:02:51,028 INFO: Classifying article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 15:02:52,878 INFO: Assigned classifications: {'Residential Real Estate': 0.4817359745502472, 'Real Estate Investment': 0.30907073616981506, 'Commercial Real Estate': 0.1871749609708786, 'Real Estate Market Trends': 0.1859298050403595, 'Real Estate Technology': 0.18022096157073975, 'Real Estate Finance': 0.16105984151363373, 'Real Estate Legal': 0.1322067677974701}
+2025-03-14 15:02:52,878 INFO: Classifying article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 15:02:54,617 INFO: Assigned classifications: {'Residential Real Estate': 0.6754511594772339, 'Commercial Real Estate': 0.4387836456298828, 'Real Estate Legal': 0.2985571622848511, 'Real Estate Market Trends': 0.2676246166229248, 'Real Estate Investment': 0.2383985072374344, 'Real Estate Technology': 0.16341179609298706, 'Real Estate Finance': 0.12828698754310608}
+2025-03-14 15:02:54,618 INFO: Classifying article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 15:02:56,639 INFO: Assigned classifications: {'Residential Real Estate': 0.8096430897712708, 'Real Estate Market Trends': 0.7141789793968201, 'Commercial Real Estate': 0.688387930393219, 'Real Estate Technology': 0.6715966463088989, 'Real Estate Investment': 0.5583686828613281, 'Real Estate Legal': 0.46124616265296936, 'Real Estate Finance': 0.4300152063369751}
+2025-03-14 15:02:56,640 INFO: Classifying article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 15:02:58,993 INFO: Assigned classifications: {'Residential Real Estate': 0.8652111291885376, 'Real Estate Market Trends': 0.7922114133834839, 'Real Estate Investment': 0.7796926498413086, 'Real Estate Legal': 0.7412787675857544, 'Commercial Real Estate': 0.7129697203636169, 'Real Estate Finance': 0.7115518450737, 'Real Estate Technology': 0.5156193971633911}
+2025-03-14 15:02:58,994 INFO: Classifying article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 15:03:01,350 INFO: Assigned classifications: {'Residential Real Estate': 0.8341859579086304, 'Real Estate Investment': 0.832496702671051, 'Real Estate Finance': 0.826924741268158, 'Real Estate Market Trends': 0.7984685897827148, 'Real Estate Legal': 0.779863715171814, 'Real Estate Technology': 0.5968027710914612, 'Commercial Real Estate': 0.34179019927978516}
+2025-03-14 15:03:01,350 INFO: Classified 16 new articles.
+2025-03-14 15:03:01,352 INFO: Saved updated articles to articles.json.
+2025-03-14 15:03:01,352 INFO: Classification process completed.

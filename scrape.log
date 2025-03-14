@@ -1,0 +1,174 @@
+2025-03-14 14:34:04,194 INFO: [Boston Globe] No existing articles file found; starting fresh.
+2025-03-14 14:34:04,195 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-14 14:34:04,328 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-14 14:34:05,165 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-14 14:34:05,165 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-14 14:34:05,165 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:34:07,400 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:34:07,400 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:34:09,594 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:34:09,594 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:34:13,370 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:34:13,370 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:34:14,651 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:34:14,651 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:34:15,948 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:34:15,948 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:34:18,673 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:34:18,673 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:34:19,859 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:34:19,860 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:34:21,005 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:34:21,005 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:34:23,806 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:34:23,806 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:34:25,894 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:34:25,894 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:34:29,130 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:34:29,130 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:34:30,323 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:34:30,323 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:34:32,495 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:34:32,495 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:34:34,187 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:34:34,187 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:34:35,450 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:34:35,450 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:34:36,560 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:34:36,561 INFO: [Boston Globe] Saved 16 new articles to articles.json.
+2025-03-14 14:35:15,247 INFO: [Boston Globe] Loaded existing articles from articles.json.
+2025-03-14 14:35:15,248 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-14 14:35:15,404 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-14 14:35:16,238 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-14 14:35:16,238 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:35:16,239 INFO: [Boston Globe] No new articles were found.
+2025-03-14 14:48:13,453 INFO: [Boston Globe] No existing articles file found; starting fresh.
+2025-03-14 14:48:13,454 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-14 14:48:13,648 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-14 14:48:14,510 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-14 14:48:14,510 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-14 14:48:14,510 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:48:15,586 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:48:15,586 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:48:16,703 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:48:16,704 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:48:18,885 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:48:18,885 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:48:20,983 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:48:20,983 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:48:23,698 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:48:23,698 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:48:25,777 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:48:25,778 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:48:26,792 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:48:26,792 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:48:28,600 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:48:28,601 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:48:29,643 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:48:29,643 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:48:30,694 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:48:30,695 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:48:32,995 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:48:32,996 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:48:34,182 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:48:34,182 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:48:36,501 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:48:36,501 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:48:37,436 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:48:37,436 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:48:39,815 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:48:39,816 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:48:40,951 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:48:40,952 INFO: [Boston Globe] Saved 16 new articles to articles.json.
+2025-03-14 14:49:10,042 INFO: [Boston Globe] No existing articles file found; starting fresh.
+2025-03-14 14:49:10,042 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-14 14:49:10,245 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-14 14:49:11,103 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-14 14:49:11,103 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-14 14:49:11,129 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:49:12,485 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 14:49:12,485 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:49:13,482 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 14:49:13,483 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:49:14,302 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 14:49:14,302 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:49:15,303 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 14:49:15,303 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:49:16,446 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 14:49:16,447 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:49:17,508 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 14:49:17,508 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:49:18,576 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 14:49:18,576 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:49:19,576 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 14:49:19,576 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:49:20,589 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 14:49:20,589 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:49:21,573 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 14:49:21,573 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:49:22,431 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 14:49:22,431 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:49:23,462 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 14:49:23,463 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:49:24,544 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 14:49:24,545 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:49:25,503 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 14:49:25,503 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:49:26,593 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 14:49:26,593 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:49:31,039 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 14:49:31,040 INFO: [Boston Globe] Saved 16 new articles to articles.json.
+2025-03-14 15:01:17,967 INFO: [Boston Globe] No existing articles file found; starting fresh.
+2025-03-14 15:01:17,968 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-14 15:01:18,431 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-14 15:01:19,267 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-14 15:01:19,267 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-14 15:01:19,295 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 15:01:20,612 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-14 15:01:20,612 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 15:01:22,904 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-14 15:01:22,904 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 15:01:24,030 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-14 15:01:24,030 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 15:01:25,307 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-14 15:01:25,307 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 15:01:27,681 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-14 15:01:27,681 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 15:01:30,025 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-14 15:01:30,026 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 15:01:32,793 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-14 15:01:32,794 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 15:01:35,081 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-14 15:01:35,082 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 15:01:37,407 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-14 15:01:37,407 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 15:01:38,688 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-14 15:01:38,688 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 15:01:39,788 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-14 15:01:39,788 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 15:01:40,994 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-14 15:01:40,995 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 15:01:43,155 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-14 15:01:43,155 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 15:01:44,781 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-14 15:01:44,781 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 15:01:48,675 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-14 15:01:48,675 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 15:01:51,184 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-14 15:01:51,186 INFO: [Boston Globe] Saved 16 new articles to articles.json.

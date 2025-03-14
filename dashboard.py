@@ -34,7 +34,7 @@ for article in articles:
         st.markdown(f"**{article.get('subhead')}**")
     
     # Display the publication date
-    st.write(f"**Publication Date:** {article.get('pub_date', 'Unknown')}")
+    st.write(f"**Publication Date:** {article.get('raw_pub_date', 'Unknown')}")
     
     # Display a snippet of the article content (first 300 characters)
     content_snippet = article.get("content", "")[:300] + "..."

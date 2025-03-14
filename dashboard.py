@@ -3,7 +3,7 @@ import json
 import os
 
 # Function to load articles from JSON file
-@st.cache_data(ttl=300)  # Cache for 5 minutes
+# @st.cache_data(ttl=300)  # Cache for 5 minutes
 def load_articles(json_file="articles.json"):
     if os.path.exists(json_file):
         with open(json_file, 'r') as f:

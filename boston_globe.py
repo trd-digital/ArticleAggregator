@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 from tqdm import tqdm  # Import tqdm for progress bar
+from datetime import datetime  # Import datetime for date conversion
 
 # Set up logging to a file named 'scrape.log'
 logging.basicConfig(
@@ -82,12 +83,22 @@ if response.status_code == 200:
             date_match = re.search(r"/(\d{4})/(\d{2})/(\d{2})", article_link)
             if date_match:
                 year, month, day = date_match.groups()
-                pub_date = f"{year}-{month}-{day}"
+                # Store the raw date string in the format found in the URL
+                raw_pub_date = f"{year}-{month}-{day}"
+                try:
+                    pub_date_obj = datetime(int(year), int(month), int(day))
+                    # Store as an ISO formatted string (e.g., "2025-03-14T00:00:00")
+                    pub_date = pub_date_obj.isoformat()
+                except Exception as e:
+                    logging.error("[%s] Error parsing date for %s: %s", site_name, article_link, e)
+                    pub_date = ""
             else:
+                raw_pub_date = ""
                 pub_date = ""
             
             article_data = {
                 "url": article_link,
+                "raw_pub_date": raw_pub_date,
                 "pub_date": pub_date,
                 "hed": hed,
                 "subhead": subhead,

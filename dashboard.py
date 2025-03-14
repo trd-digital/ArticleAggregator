@@ -45,7 +45,7 @@ for article in articles:
         classifications = article["classifications"]
         # Format classifications as "Label: score" pairs, comma-separated.
         class_text = ", ".join([f"{label}: {score:.2f}" for label, score in classifications.items()])
-        st.caption(f"Classifications: {class_text} -- AI-generated classification")
+        st.caption(f"Classifications: {class_text} -- AI-generated classification scores.")
     
     # Provide a link to the full article
     st.markdown(f"[Read full article]({article.get('url')})")

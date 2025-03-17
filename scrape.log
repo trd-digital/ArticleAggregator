@@ -210,3 +210,115 @@
 2025-03-14 15:15:34,279 INFO: [Boston Globe] Fetching article: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
 2025-03-14 15:15:35,724 INFO: [Boston Globe] Scraped article successfully: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
 2025-03-14 15:15:35,726 INFO: [Boston Globe] Saved 16 new articles to articles.json.
+2025-03-17 15:38:24,278 INFO: [Boston.com] No existing articles file found; starting fresh.
+2025-03-17 15:38:24,279 INFO: [Boston.com] Starting scraping process for https://www.boston.com/category/real-estate/?p1=header_mainnav
+2025-03-17 15:38:24,452 INFO: [Boston.com] Homepage fetched successfully.
+2025-03-17 15:38:24,505 INFO: [Boston.com] Found 25 candidate article links.
+2025-03-17 15:38:24,505 INFO: [Boston.com] After processing, 25 full links remain.
+2025-03-17 15:38:24,600 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-17 15:38:24,745 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-17 15:38:24,745 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-17 15:38:24,856 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-17 15:38:24,856 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-17 15:38:24,969 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-17 15:38:24,970 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-17 15:38:25,120 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-17 15:38:25,121 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-17 15:38:25,250 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-17 15:38:25,250 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-17 15:38:25,400 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-17 15:38:25,401 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-17 15:38:25,537 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-17 15:38:25,538 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-17 15:38:25,649 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-17 15:38:25,649 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-17 15:38:25,768 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-17 15:38:25,768 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-17 15:38:25,890 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-17 15:38:25,890 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-17 15:38:25,988 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-17 15:38:25,988 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-17 15:38:26,085 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-17 15:38:26,085 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-17 15:38:26,250 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-17 15:38:26,251 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-17 15:38:26,377 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-17 15:38:26,378 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-17 15:38:26,504 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-17 15:38:26,504 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-17 15:38:26,632 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-17 15:38:26,632 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-17 15:38:26,741 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-17 15:38:26,742 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-17 15:38:26,862 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-17 15:38:26,862 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-17 15:38:26,983 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-17 15:38:26,983 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-17 15:38:27,250 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-17 15:38:27,251 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-17 15:38:27,370 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-17 15:38:27,371 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-17 15:38:27,479 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-17 15:38:27,480 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-17 15:38:27,596 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-17 15:38:27,596 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-17 15:38:27,718 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-17 15:38:27,718 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-17 15:38:27,818 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-17 15:38:27,819 INFO: [Boston.com] Saved 25 new articles to articles_boston_com.json.
+2025-03-17 15:49:19,585 INFO: [Boston.com] Loaded existing articles from articles.json.
+2025-03-17 15:49:19,586 INFO: [Boston.com] Starting scraping process for https://www.boston.com/category/real-estate/?p1=header_mainnav
+2025-03-17 15:49:19,698 INFO: [Boston.com] Homepage fetched successfully.
+2025-03-17 15:49:19,750 INFO: [Boston.com] Found 25 candidate article links.
+2025-03-17 15:49:19,750 INFO: [Boston.com] After processing, 25 full links remain.
+2025-03-17 15:49:19,780 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-17 15:49:19,871 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-17 15:49:19,871 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-17 15:49:19,968 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-17 15:49:19,968 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-17 15:49:20,081 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-17 15:49:20,081 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-17 15:49:20,222 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-17 15:49:20,223 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-17 15:49:20,329 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-17 15:49:20,329 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-17 15:49:20,443 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-17 15:49:20,444 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-17 15:49:20,546 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-17 15:49:20,547 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-17 15:49:20,803 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-17 15:49:20,803 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-17 15:49:20,939 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-17 15:49:20,940 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-17 15:49:21,048 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-17 15:49:21,048 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-17 15:49:21,166 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-17 15:49:21,167 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-17 15:49:21,344 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-17 15:49:21,345 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-17 15:49:21,458 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-17 15:49:21,458 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-17 15:49:21,556 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-17 15:49:21,556 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-17 15:49:21,662 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-17 15:49:21,662 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-17 15:49:21,770 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-17 15:49:21,770 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-17 15:49:21,874 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-17 15:49:21,874 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-17 15:49:21,983 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-17 15:49:21,983 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-17 15:49:22,074 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-17 15:49:22,074 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-17 15:49:22,178 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-17 15:49:22,178 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-17 15:49:22,305 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-17 15:49:22,305 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-17 15:49:22,416 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-17 15:49:22,416 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-17 15:49:22,507 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-17 15:49:22,508 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-17 15:49:22,644 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-17 15:49:22,645 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-17 15:49:22,744 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-17 15:49:22,748 INFO: [Boston.com] Saved 25 new articles to articles.json.

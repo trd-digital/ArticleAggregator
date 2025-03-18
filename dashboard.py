@@ -1,24 +1,20 @@
 import streamlit as st
 import json
 import os
-from bs4 import BeautifulSoup
 from datetime import datetime
-
-# @st.cache_data(ttl=300)
+from bs4 import BeautifulSoup
 
 def clean_text(html_content):
-    # Parse HTML, extract text, and escape dollar signs
-    text = BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
-    return text.replace("$", "\$")
+    # Parse HTML and extract clean text, replacing newlines with spaces.
+    return BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
 
-
+@st.cache_data(ttl=300)
 def load_articles(json_file="articles.json"):
     """Load articles from JSON and add a datetime object for sorting."""
     if os.path.exists(json_file):
         with open(json_file, 'r') as f:
             articles = json.load(f)
         # Convert ISO publication dates to datetime objects for sorting.
-        # Also, each article should have a raw_pub_date (if stored by your scraper).
         for article in articles:
             if article.get("pub_date"):
                 try:
@@ -30,15 +26,6 @@ def load_articles(json_file="articles.json"):
         return articles
     else:
         return []
-
-# Add a refresh button to clear cached data
-if st.button("Refresh Data"):
-    st.cache_data.clear()
-    try:
-        st.rerun()
-    except Exception as e:
-        st.write("Cache cleared. Please refresh the page manually to see the updated data.")
-
 
 # Load articles
 articles = load_articles()
@@ -110,15 +97,15 @@ for article in articles:
     snippet = article.get("content", "")[:300] + "..."
     st.write(snippet)
     
-    # "Read More" expander to reveal full content and additional details.
+    # Display classification scores right below the snippet.
+    if "classifications" in article:
+        class_text = ", ".join([f"{label}: {score:.2f}" for label, score in article["classifications"].items()])
+        st.caption(f"Classifications (AI-generated): {class_text}")
+    
+    # "Read More" expander to reveal the full article and additional details.
     with st.expander("Read More"):
         st.markdown("**Full Article:**")
-        # Clean the content before displaying
         full_text = clean_text(article.get("content", "No content available"))
         st.write(full_text)
-        if "classifications" in article:
-            class_text = ", ".join([f"{label}: {score:.2f}" for label, score in article["classifications"].items()])
-            st.caption(f"Classifications (AI-generated): {class_text}")
-
     
     st.markdown("---")

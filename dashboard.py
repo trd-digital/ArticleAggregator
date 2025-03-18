@@ -33,6 +33,14 @@ articles = load_articles()
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
 
+if st.button("Refresh Data"):
+    st.cache_data.clear()
+    try:
+        st.rerun()
+    except Exception as e:
+        st.write("Cache cleared. Please refresh the page manually to see the updated data.")
+
+
 # Sidebar: Filtering and sorting options.
 st.sidebar.header("Filters & Sorting Options")
 

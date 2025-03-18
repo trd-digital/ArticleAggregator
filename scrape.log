@@ -322,3 +322,53 @@
 2025-03-17 15:49:22,645 INFO: [Boston.com] Fetching article: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
 2025-03-17 15:49:22,744 INFO: [Boston.com] Scraped article successfully: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
 2025-03-17 15:49:22,748 INFO: [Boston.com] Saved 25 new articles to articles.json.
+2025-03-18 13:41:13,093 INFO: [NY Post] Loaded existing articles from articles.json.
+2025-03-18 13:41:13,094 INFO: [NY Post] Starting scraping process for https://nypost.com/real-estate/
+2025-03-18 13:41:13,323 INFO: [NY Post] Homepage fetched successfully.
+2025-03-18 13:41:13,366 INFO: [NY Post] Found 47 candidate article links.
+2025-03-18 13:41:13,366 INFO: [NY Post] After processing, 22 full links remain.
+2025-03-18 13:41:13,479 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/financier-snags-a-record-31-5m-mansion-on-island-off-miami/
+2025-03-18 13:41:13,747 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/financier-snags-a-record-31-5m-mansion-on-island-off-miami/
+2025-03-18 13:41:13,747 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/ai-boom-could-spark-a-texas-land-rushand-raise-demand-for-homes/
+2025-03-18 13:41:13,949 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/ai-boom-could-spark-a-texas-land-rushand-raise-demand-for-homes/
+2025-03-18 13:41:13,949 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/16/real-estate/sellers-could-add-40k-to-home-value-with-this-easy-upgrade/
+2025-03-18 13:41:14,213 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/16/real-estate/sellers-could-add-40k-to-home-value-with-this-easy-upgrade/
+2025-03-18 13:41:14,213 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/hay-island-in-connecticut-lists-for-35m/
+2025-03-18 13:41:14,477 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/hay-island-in-connecticut-lists-for-35m/
+2025-03-18 13:41:14,478 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/nj-estate-tied-to-brooke-astor-asks-2-95m/
+2025-03-18 13:41:14,708 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/nj-estate-tied-to-brooke-astor-asks-2-95m/
+2025-03-18 13:41:14,708 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/18/real-estate/actor-joel-grey-sells-nyc-loft-for-7-6m-100k-over-ask/
+2025-03-18 13:41:14,960 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/18/real-estate/actor-joel-grey-sells-nyc-loft-for-7-6m-100k-over-ask/
+2025-03-18 13:41:14,960 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/17/real-estate/top-1-of-americans-have-enough-money-to-buy-99-of-us-homes/
+2025-03-18 13:41:15,185 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/17/real-estate/top-1-of-americans-have-enough-money-to-buy-99-of-us-homes/
+2025-03-18 13:41:15,186 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/manhattans-largest-private-home-is-now-9-05m-cheaper/
+2025-03-18 13:41:15,469 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/manhattans-largest-private-home-is-now-9-05m-cheaper/
+2025-03-18 13:41:15,469 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/18/real-estate/valery-kogans-palatial-nyc-penthouse-sells-for-34m/
+2025-03-18 13:41:15,688 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/18/real-estate/valery-kogans-palatial-nyc-penthouse-sells-for-34m/
+2025-03-18 13:41:15,688 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/here-are-the-best-seven-days-to-sell-your-home/
+2025-03-18 13:41:15,922 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/here-are-the-best-seven-days-to-sell-your-home/
+2025-03-18 13:41:15,922 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/17/real-estate/a-ny-farmhouse-once-owned-by-a-hollywood-honcho-asks-1-97m/
+2025-03-18 13:41:16,214 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/17/real-estate/a-ny-farmhouse-once-owned-by-a-hollywood-honcho-asks-1-97m/
+2025-03-18 13:41:16,214 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/a-storied-gilded-age-mansion-in-the-catskills-asks-1-85m/
+2025-03-18 13:41:16,429 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/a-storied-gilded-age-mansion-in-the-catskills-asks-1-85m/
+2025-03-18 13:41:16,429 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/17/real-estate/keira-knightleys-black-doves-home-lists-6-48m/
+2025-03-18 13:41:16,694 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/17/real-estate/keira-knightleys-black-doves-home-lists-6-48m/
+2025-03-18 13:41:16,695 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/17/real-estate/the-raleigh-in-south-beach-is-getting-a-1b-makeover/
+2025-03-18 13:41:16,989 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/17/real-estate/the-raleigh-in-south-beach-is-getting-a-1b-makeover/
+2025-03-18 13:41:16,990 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/young-adults-are-moving-to-small-towns-at-the-highest-rate-in-a-decade/
+2025-03-18 13:41:17,223 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/young-adults-are-moving-to-small-towns-at-the-highest-rate-in-a-decade/
+2025-03-18 13:41:17,223 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/are-justin-and-hailey-bieber-looking-to-move-to-europe/
+2025-03-18 13:41:17,459 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/are-justin-and-hailey-bieber-looking-to-move-to-europe/
+2025-03-18 13:41:17,460 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/the-second-skinniest-home-in-london-is-on-the-market-for-more-than-a-million/
+2025-03-18 13:41:17,649 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/the-second-skinniest-home-in-london-is-on-the-market-for-more-than-a-million/
+2025-03-18 13:41:17,650 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/13/real-estate/influencers-live-out-of-suitcases-due-to-shoebox-apartment/
+2025-03-18 13:41:17,917 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/13/real-estate/influencers-live-out-of-suitcases-due-to-shoebox-apartment/
+2025-03-18 13:41:17,918 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/17/real-estate/san-francisco-area-home-sells-for-101-above-its-list-price/
+2025-03-18 13:41:18,174 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/17/real-estate/san-francisco-area-home-sells-for-101-above-its-list-price/
+2025-03-18 13:41:18,174 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/18/real-estate/we-took-a-27k-shed-and-turned-it-into-a-house-worth-460k/
+2025-03-18 13:41:18,362 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/18/real-estate/we-took-a-27k-shed-and-turned-it-into-a-house-worth-460k/
+2025-03-18 13:41:18,363 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/kayak-co-founder-steve-hafner-buys-24m-miami-beach-penthouse/
+2025-03-18 13:41:18,614 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/kayak-co-founder-steve-hafner-buys-24m-miami-beach-penthouse/
+2025-03-18 13:41:18,614 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
+2025-03-18 13:41:18,840 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
+2025-03-18 13:41:18,845 INFO: [NY Post] Saved 22 new articles to articles.json.

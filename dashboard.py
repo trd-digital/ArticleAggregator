@@ -51,6 +51,17 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
     else:
         return []
 
+# Check the environment variable; default to "local"
+environment = os.environ.get("ENVIRONMENT", "local")
+print(f"Environment: {environment}")
+
+if environment == "production":
+    articles = load_articles_from_github()
+    print('loading from github')
+else:
+    articles = load_articles()
+    print('loading locally')
+
 # Load articles directly (no caching)
 articles = load_articles()
 articles = load_articles_from_github()

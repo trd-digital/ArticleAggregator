@@ -52,9 +52,18 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
         return []
 
 
-# Check the environment variable; default to "local"
-environment = os.environ.get("ENVIRONMENT", "local")
+# Try to get the environment variable from st.secrets first, then fallback to os.environ.
+if "ENVIRONMENT" in st.secrets:
+    environment = st.secrets["ENVIRONMENT"]
+else:
+    environment = os.environ.get("ENVIRONMENT", "local")
 st.write(f"Environment: {environment}")
+
+if "GH_TOKEN" in st.secrets:
+    token = st.secrets["GH_TOKEN"]
+else:
+    token = os.environ.get("GH_TOKEN")
+
 
 if environment == "local":
     articles = load_articles()

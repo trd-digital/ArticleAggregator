@@ -51,22 +51,21 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
 
 # Check the environment variable; default to "local"
 environment = os.environ.get("ENVIRONMENT", "local")
-print(f"Environment: {environment}")
+st.write(f"Environment: {environment}")
 
 if environment == "production":
     articles = load_articles_from_github()
-    print('Loading from GitHub')
+    st.write("Loading from GitHub")
 else:
     articles = load_articles()
-    print('Loading locally')
+    st.write("Loading locally")
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
 
-# Manual refresh button to force re-reading the JSON file.
+# Manual refresh button to force a fresh load.
 if st.button("Refresh Data"):
     st.rerun()
-    articles = load_articles_from_github()
 
 # Sidebar: Filtering and sorting options.
 st.sidebar.header("Filters & Sorting Options")

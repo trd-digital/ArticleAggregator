@@ -32,8 +32,6 @@ def load_articles(json_file="articles.json"):
     else:
         return []
 
-import requests
-
 def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital/BlurbArticleAggregator/refs/heads/main/articles.json"):
     response = requests.get(url)
     if response.status_code == 200:
@@ -57,19 +55,15 @@ print(f"Environment: {environment}")
 
 if environment == "production":
     articles = load_articles_from_github()
-    print('loading from github')
+    print('Loading from GitHub')
 else:
     articles = load_articles()
-    print('loading locally')
-
-# Load articles directly (no caching)
-articles = load_articles()
-articles = load_articles_from_github()
+    print('Loading locally')
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
 
-# Manual refresh button to force an immediate reload.
+# Manual refresh button to force re-reading the JSON file.
 if st.button("Refresh Data"):
     st.rerun()
 

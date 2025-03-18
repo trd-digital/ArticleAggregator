@@ -4,6 +4,7 @@ import os
 from datetime import datetime
 from bs4 import BeautifulSoup
 from streamlit_autorefresh import st_autorefresh
+import requests
 
 def clean_text(html_content):
     # Parse HTML, extract text, and escape dollar signs.
@@ -31,8 +32,28 @@ def load_articles(json_file="articles.json"):
     else:
         return []
 
+import requests
+
+def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital/BlurbArticleAggregator/refs/heads/main/articles.json"):
+    response = requests.get(url)
+    if response.status_code == 200:
+        articles = response.json()
+        # Process each article to convert dates, etc.
+        for article in articles:
+            if article.get("pub_date"):
+                try:
+                    article["pub_date_dt"] = datetime.fromisoformat(article["pub_date"])
+                except Exception as e:
+                    article["pub_date_dt"] = None
+            else:
+                article["pub_date_dt"] = None
+        return articles
+    else:
+        return []
+
 # Load articles directly (no caching)
 articles = load_articles()
+articles = load_articles_from_github()
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")

@@ -341,3 +341,80 @@
 2025-03-18 13:43:13,730 INFO: Classified 22 new articles.
 2025-03-18 13:43:13,734 INFO: Saved updated articles to articles.json.
 2025-03-18 13:43:13,734 INFO: Classification process completed.
+2025-03-18 14:17:05,877 INFO: Starting classification process.
+2025-03-18 14:17:05,879 INFO: Loaded 67 articles from articles.json.
+2025-03-18 14:17:05,879 INFO: Loading Hugging Face zero-shot classification pipeline.
+2025-03-18 14:17:08,615 INFO: Article already classified: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/02/28/business/michelle-wu-white-stadium-revolution/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/02/28/business/middleborough-lawsuit-state-housing-law/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.bostonglobe.com/2025/03/17/business/rental-broker-fees-boston/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-18 14:17:08,617 INFO: Article already classified: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://www.bostonglobe.com/2025/03/18/business/white-stadium-emerald-necklace-conservancy-boston-lawsuit/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/14/real-estate/financier-snags-a-record-31-5m-mansion-on-island-off-miami/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/14/real-estate/ai-boom-could-spark-a-texas-land-rushand-raise-demand-for-homes/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/16/real-estate/sellers-could-add-40k-to-home-value-with-this-easy-upgrade/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/hay-island-in-connecticut-lists-for-35m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/nj-estate-tied-to-brooke-astor-asks-2-95m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/18/real-estate/actor-joel-grey-sells-nyc-loft-for-7-6m-100k-over-ask/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/17/real-estate/top-1-of-americans-have-enough-money-to-buy-99-of-us-homes/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/manhattans-largest-private-home-is-now-9-05m-cheaper/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/18/real-estate/valery-kogans-palatial-nyc-penthouse-sells-for-34m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/here-are-the-best-seven-days-to-sell-your-home/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/17/real-estate/a-ny-farmhouse-once-owned-by-a-hollywood-honcho-asks-1-97m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/a-storied-gilded-age-mansion-in-the-catskills-asks-1-85m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/17/real-estate/keira-knightleys-black-doves-home-lists-6-48m/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/17/real-estate/the-raleigh-in-south-beach-is-getting-a-1b-makeover/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/14/real-estate/young-adults-are-moving-to-small-towns-at-the-highest-rate-in-a-decade/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/14/real-estate/are-justin-and-hailey-bieber-looking-to-move-to-europe/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/14/real-estate/the-second-skinniest-home-in-london-is-on-the-market-for-more-than-a-million/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/13/real-estate/influencers-live-out-of-suitcases-due-to-shoebox-apartment/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/17/real-estate/san-francisco-area-home-sells-for-101-above-its-list-price/
+2025-03-18 14:17:08,618 INFO: Article already classified: https://nypost.com/2025/03/18/real-estate/we-took-a-27k-shed-and-turned-it-into-a-house-worth-460k/
+2025-03-18 14:17:08,618 INFO: Classifying article: https://nypost.com/2025/03/14/real-estate/kayak-co-founder-steve-hafner-buys-24m-miami-beach-penthouse/
+2025-03-18 14:17:11,065 INFO: Assigned classifications: {'Real Estate Market Trends': 0.5184985399246216, 'Real Estate Technology': 0.3716563582420349, 'Real Estate Investment': 0.37029585242271423, 'Real Estate Legal': 0.35559260845184326, 'Residential Real Estate': 0.2946922779083252, 'Commercial Real Estate': 0.24068254232406616, 'Real Estate Finance': 0.12421659380197525}
+2025-03-18 14:17:11,066 INFO: Classifying article: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
+2025-03-18 14:17:13,470 INFO: Assigned classifications: {'Real Estate Investment': 0.8567514419555664, 'Real Estate Legal': 0.8364828824996948, 'Residential Real Estate': 0.8267498016357422, 'Real Estate Market Trends': 0.8101672530174255, 'Real Estate Finance': 0.770682156085968, 'Commercial Real Estate': 0.7097626328468323, 'Real Estate Technology': 0.6682835817337036}
+2025-03-18 14:17:13,470 INFO: Classifying article: https://nypost.com/2025/03/18/real-estate/inside-the-death-of-the-starter-home-in-florida/
+2025-03-18 14:17:15,926 INFO: Assigned classifications: {'Residential Real Estate': 0.9737349152565002, 'Real Estate Investment': 0.9709895253181458, 'Real Estate Market Trends': 0.9678807258605957, 'Real Estate Legal': 0.9454310536384583, 'Real Estate Finance': 0.9421598315238953, 'Real Estate Technology': 0.8556790351867676, 'Commercial Real Estate': 0.8299857378005981}
+2025-03-18 14:17:15,927 INFO: Classifying article: https://nypost.com/2025/03/18/real-estate/a-gilded-age-unit-inside-nycs-oldest-co-op-asks-6-6m/
+2025-03-18 14:17:17,858 INFO: Assigned classifications: {'Residential Real Estate': 0.8064797520637512, 'Real Estate Market Trends': 0.8000603318214417, 'Commercial Real Estate': 0.5782665610313416, 'Real Estate Investment': 0.46804195642471313, 'Real Estate Finance': 0.29173362255096436, 'Real Estate Technology': 0.2450733631849289, 'Real Estate Legal': 0.18525204062461853}
+2025-03-18 14:17:17,858 INFO: Classified 4 new articles.
+2025-03-18 14:17:17,862 INFO: Saved updated articles to articles.json.
+2025-03-18 14:17:17,862 INFO: Classification process completed.

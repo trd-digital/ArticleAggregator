@@ -372,3 +372,89 @@
 2025-03-18 13:41:18,614 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
 2025-03-18 13:41:18,840 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
 2025-03-18 13:41:18,845 INFO: [NY Post] Saved 22 new articles to articles.json.
+2025-03-18 14:16:37,948 INFO: [Boston.com] Loaded existing articles from articles.json.
+2025-03-18 14:16:37,948 INFO: [Boston.com] Starting scraping process for https://www.boston.com/category/real-estate/?p1=header_mainnav
+2025-03-18 14:16:38,075 INFO: [Boston.com] Homepage fetched successfully.
+2025-03-18 14:16:38,121 INFO: [Boston.com] Found 25 candidate article links.
+2025-03-18 14:16:38,121 INFO: [Boston.com] After processing, 25 full links remain.
+2025-03-18 14:16:38,153 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-buying/2025/01/21/how-to-come-up-with-down-payment-home/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate/2025/03/14/this-is-the-story-of-the-750000-beacon-hill-parking-spot/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/02/28/iconic-newburyport-pink-house-to-be-demolished/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/luxury-homes/2025/02/04/scoring-chance-to-snap-up-former-bruins-condo/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/luxury-homes/2025/02/12/brookline-estate-housed-refugees-luxury-home-week/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/spring-house-hunt/2022/04/06/buying-a-condo-ask-about-association-finances/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-buying/2025/02/18/in-a-ranking-of-the-best-state-capitals-to-live-in-boston-gets-a-meh/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/fall-house-hunt/2024/09/12/property-taxes-primer-for-homebuyers/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-improvement/2025/03/06/reclaiming-every-nook-and-cranny/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-improvement/2025/03/06/ask-the-remodeler-heat-pump-has-become-a-noisy-neighbor/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/gardening/2025/03/13/ask-the-gardener-planting-thoughts-of-spring/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/04/best-place-to-live-boston-magazine/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate/2025/03/11/mattapan-350-unit-building-will-be-converted-from-market-rate-to-affordable-housing/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/07/former-patriots-star-matthew-judon-home-listed-for-2-898-million/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-buying/2025/03/06/home-of-the-week-become-a-maine-iac-and-watch-the-waves/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/17/home-sellers-and-buyers-accuse-realtors-of-blocking-lower-fees/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/12/recent-homes-sales-in-greater-boston-mar-12/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/13/designs-revealed-for-18-story-apartment-towers-in-dorchester/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/gardening/2025/03/06/hey-gardeners-embrace-the-chaos/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/home-of-the-week/2025/03/13/home-of-the-week-when-downsizing-is-a-day-at-the-beach/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/local-news/2025/03/13/banking-on-a-silver-tsunami-of-baby-boomer-homes-to-hit-the-market-youll-be-waiting-a-while/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/luxury-homes/2025/02/06/judy-garlands-hyannis-port-rental-listed/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate/2025/03/06/a-beverly-home-tied-to-the-salem-witch-trials-is-on-the-market-for-600000/
+2025-03-18 14:16:38,154 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/02/26/luxury-home-at-risk-of-tumbling-into-cape-cod-bay-over-removal-dispute-is-demolished/
+2025-03-18 14:16:38,155 INFO: [Boston.com] Already scraped: https://www.boston.com/real-estate/real-estate-news/2025/03/05/recent-homes-sales-in-greater-boston-mar-5/
+2025-03-18 14:16:38,155 INFO: [Boston.com] No new articles were found.
+2025-03-18 14:16:42,910 INFO: [NY Post] Loaded existing articles from articles.json.
+2025-03-18 14:16:42,910 INFO: [NY Post] Starting scraping process for https://nypost.com/real-estate/
+2025-03-18 14:16:42,998 INFO: [NY Post] Homepage fetched successfully.
+2025-03-18 14:16:43,039 INFO: [NY Post] Found 49 candidate article links.
+2025-03-18 14:16:43,039 INFO: [NY Post] After processing, 23 full links remain.
+2025-03-18 14:16:43,065 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/18/real-estate/actor-joel-grey-sells-nyc-loft-for-7-6m-100k-over-ask/
+2025-03-18 14:16:43,065 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/kayak-co-founder-steve-hafner-buys-24m-miami-beach-penthouse/
+2025-03-18 14:16:43,166 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/kayak-co-founder-steve-hafner-buys-24m-miami-beach-penthouse/
+2025-03-18 14:16:43,166 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/18/real-estate/valery-kogans-palatial-nyc-penthouse-sells-for-34m/
+2025-03-18 14:16:43,167 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/14/real-estate/financier-snags-a-record-31-5m-mansion-on-island-off-miami/
+2025-03-18 14:16:43,167 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/17/real-estate/top-1-of-americans-have-enough-money-to-buy-99-of-us-homes/
+2025-03-18 14:16:43,167 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
+2025-03-18 14:16:43,297 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/14/real-estate/manhattan-rents-reached-a-record-high-in-february/
+2025-03-18 14:16:43,297 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/14/real-estate/are-justin-and-hailey-bieber-looking-to-move-to-europe/
+2025-03-18 14:16:43,297 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/13/real-estate/here-are-the-best-seven-days-to-sell-your-home/
+2025-03-18 14:16:43,298 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/13/real-estate/a-storied-gilded-age-mansion-in-the-catskills-asks-1-85m/
+2025-03-18 14:16:43,298 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/17/real-estate/a-ny-farmhouse-once-owned-by-a-hollywood-honcho-asks-1-97m/
+2025-03-18 14:16:43,298 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/18/real-estate/inside-the-death-of-the-starter-home-in-florida/
+2025-03-18 14:16:43,410 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/18/real-estate/inside-the-death-of-the-starter-home-in-florida/
+2025-03-18 14:16:43,410 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/17/real-estate/keira-knightleys-black-doves-home-lists-6-48m/
+2025-03-18 14:16:43,410 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/18/real-estate/we-took-a-27k-shed-and-turned-it-into-a-house-worth-460k/
+2025-03-18 14:16:43,410 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/17/real-estate/the-raleigh-in-south-beach-is-getting-a-1b-makeover/
+2025-03-18 14:16:43,410 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/14/real-estate/the-second-skinniest-home-in-london-is-on-the-market-for-more-than-a-million/
+2025-03-18 14:16:43,410 INFO: [NY Post] Fetching article: https://nypost.com/2025/03/18/real-estate/a-gilded-age-unit-inside-nycs-oldest-co-op-asks-6-6m/
+2025-03-18 14:16:43,539 INFO: [NY Post] Scraped article successfully: https://nypost.com/2025/03/18/real-estate/a-gilded-age-unit-inside-nycs-oldest-co-op-asks-6-6m/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/16/real-estate/sellers-could-add-40k-to-home-value-with-this-easy-upgrade/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/13/real-estate/nj-estate-tied-to-brooke-astor-asks-2-95m/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/14/real-estate/ai-boom-could-spark-a-texas-land-rushand-raise-demand-for-homes/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/13/real-estate/manhattans-largest-private-home-is-now-9-05m-cheaper/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/14/real-estate/young-adults-are-moving-to-small-towns-at-the-highest-rate-in-a-decade/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/17/real-estate/san-francisco-area-home-sells-for-101-above-its-list-price/
+2025-03-18 14:16:43,540 INFO: [NY Post] Already scraped: https://nypost.com/2025/03/13/real-estate/hay-island-in-connecticut-lists-for-35m/
+2025-03-18 14:16:43,544 INFO: [NY Post] Saved 4 new articles to articles.json.
+2025-03-18 14:16:50,910 INFO: [Boston Globe] Loaded existing articles from articles.json.
+2025-03-18 14:16:50,911 INFO: [Boston Globe] Starting scraping process for https://www.bostonglobe.com/business/real-estate/
+2025-03-18 14:16:51,309 INFO: [Boston Globe] Homepage fetched successfully.
+2025-03-18 14:16:51,998 INFO: [Boston Globe] Found 24 candidate article links.
+2025-03-18 14:16:51,998 INFO: [Boston Globe] After deduplication, 16 full links remain.
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/06/business/federal-buildings-trump-administration-non-core-sale-list/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/18/business/white-stadium-emerald-necklace-conservancy-boston-lawsuit/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/11/business/boston-office-tower-auction/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/06/business/everett-boston-pumphouse-mystic-river-ferry-terminal/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/09/business/women-in-construction-week-boston/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/05/business/tariffs-housing-costs-lumber-construction/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/04/business/morrissey-boulevard-high-rise-towers/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/03/business/josh-kraft-michelle-wu-rent-control/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/17/business/rental-broker-fees-boston/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/13/business/south-boston-public-housing-mccormack-redevelopment/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/14/business/beacon-hill-parking-spot-750000-boston/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/10/lifestyle/boston-luxury-towers-amenities-dog-spas-golf-simulator-indoor-pool/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/04/business/massachusetts-development-woburn-regional-transportation/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/10/business/mattapan-apartment-complex-affordable/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/12/business/formerly-homeless-find-new-home-jamaica-plain/
+2025-03-18 14:16:52,021 INFO: [Boston Globe] Already scraped: https://www.bostonglobe.com/2025/03/14/business/boston-office-tower-sale-federal-street/
+2025-03-18 14:16:52,022 INFO: [Boston Globe] No new articles were found.

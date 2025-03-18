@@ -53,12 +53,12 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
 environment = os.environ.get("ENVIRONMENT", "local")
 st.write(f"Environment: {environment}")
 
-if environment == "production":
-    articles = load_articles_from_github()
-    st.write("Loading from GitHub")
-else:
+if environment == "local":
     articles = load_articles()
-    st.write("Loading locally")
+    print("Loading locally...")
+else:
+    articles = load_articles_from_github()
+    print("Loading from GitHub...")
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")

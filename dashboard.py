@@ -5,8 +5,10 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 def clean_text(html_content):
-    # Parse HTML and extract clean text, replacing newlines with spaces.
-    return BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
+    # Parse HTML, extract text, and escape dollar signs
+    text = BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
+    return text.replace("$", "\$")
+
 
 @st.cache_data(ttl=300)
 def load_articles(json_file="articles.json"):

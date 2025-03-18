@@ -31,6 +31,15 @@ def load_articles(json_file="articles.json"):
     else:
         return []
 
+# Add a refresh button to clear cached data
+if st.button("Refresh Data"):
+    st.cache_data.clear()
+    try:
+        st.rerun()
+    except Exception as e:
+        st.write("Cache cleared. Please refresh the page manually to see the updated data.")
+
+
 # Load articles
 articles = load_articles()
 

@@ -3,32 +3,14 @@ import json
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup
-from streamlit_autorefresh import st_autorefresh
 
 def clean_text(html_content):
     # Parse HTML, extract text, and escape dollar signs
     text = BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
     return text.replace("$", "\$")
 
-# Auto-refresh the app every 5 minutes (300,000 milliseconds).
-# This ensures the dashboard is updated automatically.
-st_autorefresh(interval=300000, limit=100, key="dashboard_refresh")
-
-# Initialize refresh counter in session state if not already set.
-if "refresh_counter" not in st.session_state:
-    st.session_state.refresh_counter = 0
-
-# Manual refresh button: when clicked, increments the counter and re-runs the app.
-if st.button("Refresh Data"):
-    st.session_state.refresh_counter += 1
-    st.rerun()
-
-@st.cache_data(ttl=300)
-def load_articles(refresh_counter, json_file="articles.json"):
-    """
-    Load articles from JSON and add a datetime object for sorting.
-    The refresh_counter parameter forces a cache miss when updated.
-    """
+def load_articles(json_file="articles.json"):
+    """Load articles from JSON and add a datetime object for sorting."""
     if os.path.exists(json_file):
         with open(json_file, 'r') as f:
             articles = json.load(f)
@@ -45,11 +27,16 @@ def load_articles(refresh_counter, json_file="articles.json"):
     else:
         return []
 
-# Load articles using the refresh counter (ensuring a cache refresh when needed).
-articles = load_articles(st.session_state.refresh_counter)
+# Load articles from file every time (no caching)
+articles = load_articles()
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
+
+# Manual refresh button to force re-reading the JSON file.
+if st.button("Refresh Data"):
+    articles = load_articles()
+    st.rerun()
 
 # Sidebar: Filtering and sorting options.
 st.sidebar.header("Filters & Sorting Options")

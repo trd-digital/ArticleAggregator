@@ -33,7 +33,9 @@ def load_articles(json_file="articles.json"):
         return []
 
 def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital/BlurbArticleAggregator/refs/heads/main/articles.json"):
-    response = requests.get(url)
+    token = os.environ.get("GH_TOKEN")  # Ensure you set this environment variable in production.
+    headers = {"Authorization": f"token {token}"} if token else {}
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         articles = response.json()
         # Process each article to convert dates, etc.
@@ -48,6 +50,7 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
         return articles
     else:
         return []
+
 
 # Check the environment variable; default to "local"
 environment = os.environ.get("ENVIRONMENT", "local")

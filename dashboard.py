@@ -1,16 +1,17 @@
 import streamlit as st
-from streamlit_autorefresh import st_autorefresh
 import json
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup
-
-count = st_autorefresh(interval=2000, limit=None)
+from streamlit_autorefresh import st_autorefresh
 
 def clean_text(html_content):
-    # Parse HTML, extract text, and escape dollar signs
+    # Parse HTML, extract text, and escape dollar signs.
     text = BeautifulSoup(html_content, "html.parser").get_text(separator=" ", strip=True)
     return text.replace("$", "\$")
+
+# Auto-refresh the app every 5 minutes (300,000 ms)
+st_autorefresh(interval=300000, limit=None, key="autorefresh_key")
 
 def load_articles(json_file="articles.json"):
     """Load articles from JSON and add a datetime object for sorting."""
@@ -30,15 +31,14 @@ def load_articles(json_file="articles.json"):
     else:
         return []
 
-# Load articles from file every time (no caching)
+# Load articles directly (no caching)
 articles = load_articles()
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
 
-# Manual refresh button to force re-reading the JSON file.
+# Manual refresh button to force an immediate reload.
 if st.button("Refresh Data"):
-    articles = load_articles()
     st.rerun()
 
 # Sidebar: Filtering and sorting options.

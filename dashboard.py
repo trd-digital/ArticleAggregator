@@ -66,6 +66,7 @@ st.write(f"Showing **{len(articles)}** articles.")
 # Manual refresh button to force re-reading the JSON file.
 if st.button("Refresh Data"):
     st.rerun()
+    articles = load_articles_from_github()
 
 # Sidebar: Filtering and sorting options.
 st.sidebar.header("Filters & Sorting Options")

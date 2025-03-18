@@ -18,7 +18,7 @@ if st.button("Refresh Data"):
     st.session_state.refresh_counter += 1
     st.rerun()
 
-@st.cache_data(ttl=300)
+# @st.cache_data(ttl=300)
 def load_articles(refresh_counter, json_file="articles.json"):
     """Load articles from JSON and add a datetime object for sorting.
     The refresh_counter parameter forces a cache miss when updated."""

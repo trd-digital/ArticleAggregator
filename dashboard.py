@@ -1,8 +1,11 @@
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 import json
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup
+
+count = st_autorefresh(interval=2000, limit=None)
 
 def clean_text(html_content):
     # Parse HTML, extract text, and escape dollar signs

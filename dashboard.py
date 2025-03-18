@@ -50,17 +50,15 @@ def load_articles_from_github(url="https://raw.githubusercontent.com/trd-digital
         return []
 
 # Check the environment variable; default to "local"
-# environment = os.environ.get("ENVIRONMENT", "local")
-# st.write(f"Environment: {environment}")
+environment = os.environ.get("ENVIRONMENT", "local")
+st.write(f"Environment: {environment}")
 
-# if environment == "local":
-#     articles = load_articles()
-#     print("Loading locally...")
-# else:
-#     articles = load_articles_from_github()
-#     print("Loading from GitHub...")
-
-articles = load_articles_from_github()
+if environment == "local":
+    articles = load_articles()
+    st.write("Loading locally...")
+else:
+    articles = load_articles_from_github()
+    st.write("Loading from GitHub...")
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")

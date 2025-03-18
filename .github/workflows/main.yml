@@ -29,6 +29,12 @@ jobs:
       - name: Run Boston Globe Scraper
         run: python boston_globe.py
 
+      - name: Run Boston dot com Scraper
+        run: python boston_dot_com.py
+
+      - name: Run NY Post Scraper
+        run: python nypost.py
+
       - name: Run Classifier
         run: python classify.py
 
